@@ -1,4 +1,4 @@
-# NLW eSports Trilha Explorer
+# Animais Fantásticos
 
 ![preview](img/preview.png)
 
